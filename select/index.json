@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Love Killa",
+  "base_artist": "MONSTA X",
+  "createdAt": "2026-03-31T09:04:39.640848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Killa",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/01_Love_Killa_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Killa (Japanese Version)",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/02_Love_Killa_(Japanese_Version)_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Killa (Japanese Version)",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/03_Love_Killa_(Japanese_Version)_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Killa -Japanese ver.-",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/04_Love_Killa_-Japanese_ver.-_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Killa (Japanese ver.)",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/05_Love_Killa_(Japanese_ver.)_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Killa",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/06_Love_Killa_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Killa (Japanese Version)",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/07_Love_Killa_(Japanese_Version)_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "B. Smyth - Love Killa",
+      "artist": "B SMYTH",
+      "has_synced": false,
+      "path": "select/08_B._Smyth_-_Love_Killa_B_SMYTH.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love Killa",
+      "artist": "B. Smyth",
+      "has_synced": false,
+      "path": "select/09_Love_Killa_B._Smyth.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Killa (Japanese Version)",
+      "artist": "몬스타엑스(Monsta X)",
+      "has_synced": true,
+      "path": "select/10_Love_Killa_(Japanese_Version)_몬스타엑스(Monsta_X).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Killa",
+      "artist": "몬스타엑스",
+      "has_synced": true,
+      "path": "select/11_Love_Killa_몬스타엑스.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Killa",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/12_Love_Killa_MONSTA_X.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Killa (Japanese Version)",
+      "artist": "MONSTA X",
+      "has_synced": true,
+      "path": "select/13_Love_Killa_(Japanese_Version)_MONSTA_X.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Killa",
+      "artist": "Monsta X",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Killa_Monsta_X.txt"
+    }
+  ]
+}
